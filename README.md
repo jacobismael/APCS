@@ -37,4 +37,4 @@ javac *.java && java Runner
 
 > There are considerably less labs in the 2nd semester because of both the AP test and the Coronavirus epidemic
 
-> There may be few labs missing because not I switched computers mid-year and I initially joined the class later then most
+> There may be few labs missing because 1) I switched computers mid-year and 2) I initially joined the class later then most
