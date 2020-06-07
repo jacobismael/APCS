@@ -13,7 +13,7 @@ javac *.java && java Runner
 # List of Lab Projects:
 
 ## S1 (2019):
-1. [Variables Lab](variableslab) (September 5)
+1. [Variables Lab](/variableslab) (September 5)
 2. [Trivia Lab](triviaLab) (September 18)
 3. [Formulas Lab](formulaslab) (September 25)
 4. [Career Lab](careerlab) (October 2)
