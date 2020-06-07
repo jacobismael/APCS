@@ -1,0 +1,33 @@
+Part A:
+
+Go through the scoreList
+	if there is the same score
+		increment the scoreInfo
+		return false 
+
+When the for loop is done, that means you haven't incremented any score.
+Add a new scoreInfo to the scoreList.
+Sort scoreList by score.
+returnt trye
+
+or
+
+if scoreList is empty
+	add a new score 
+	return true
+		
+Go through the scoreList
+	if there is the same score
+		increment the scoreInfo
+		return false
+	if the score of i is greater than score
+		add it to the location of i
+		return true
+If the for loop is done, then you reached the end  
+Add a new scoreInfo to the scoreList. (this will add a score to the end)
+return true
+
+		
+Part B:
+Go through the array of stuScore
+	call record(int) for each score

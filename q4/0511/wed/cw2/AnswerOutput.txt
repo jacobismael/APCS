@@ -1,0 +1,10 @@
+Testing Part A
+n=5, hailstoneLength=6
+n=8, hailstoneLength=4
+
+Testing Part B
+n=5, isLongSeq=true
+n=8, isLongSeq=false
+
+Testing Part C
+propLong(10)=0.5

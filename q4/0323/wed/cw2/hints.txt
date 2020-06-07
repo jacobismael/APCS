@@ -1,0 +1,23 @@
+Part A
+Instantiate board with the size of palyerCount
+Go through the board using a loop
+	Assign each slot a random number between 1 and 10 inclusive.
+
+Set currentPlayer to a random number between 0 and playerCount-1 inclusive.
+
+
+Part B
+
+Get the number of token in the board array given the currentPlayer index. (e.g. board[currentPlayer] ) 
+and store it a variable called tokenToDistribute
+Set board[currentPlayer] to 0.
+Create a position variable and set it to the next player (currentPlayer+1)
+
+In a while loop, set the condition while tokenToDistribute is greater than 0
+	Check if the position variable is at the end. (board.length)
+		Set it back to zero to start at the beginning of the board
+	
+	Increment the number by 1 at the board given the position variable
+	Decrement the tokenToDistribute by 1
+	Increment the position variable by 1
+	

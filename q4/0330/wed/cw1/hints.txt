@@ -1,0 +1,30 @@
+
+//Create a class called HiddenWord
+//Create an instance variable called word (set it to private)
+
+//Create a constructor that takes in a string and sets up the instance variable
+
+//Create a method called getHint(String guessWord) that returns a string.
+
+
+//Create a total string variable
+
+//Go through guessWord one letter at a time using a for loop with i
+//e.g. for(int i=0; i < guessWord.length(); i++) 
+
+	//search for word
+	//Create a string called hint and set it to "*"
+	
+	//Go through the instance variable word one letter at a time using a for loop with j
+	
+		//if the character of guessWord at i is the same as the character at word at  j
+			//set hint to "+"
+
+			//if i is equal to j
+				//set hint to the character at (j)
+				//e.g. hint = "" + word.charAt(j) )
+				//break
+	//concantenate total with hint
+	//e.g. total += hint;)
+
+//return total

@@ -1,0 +1,22 @@
+Testing Part A
+Name: ABC Cereal
+Review: It is the best!
+
+Name: ABC Cereal
+Review: Warning, it contains asbesto!
+
+Name: ACME Cola
+Review: Best tasting soda.
+
+Name: ACME Diet Cola
+Review: This is not the best soda.
+
+Product List:
+ABC Cereal
+ACME Cola
+ACME Diet Cola
+
+Testing Part B
+Good Reviews for ABC Cereal: 2
+Good Reviews for ACME Cola: 0
+Good Reviews for ACME Diet Cola: 1

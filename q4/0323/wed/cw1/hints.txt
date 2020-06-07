@@ -1,0 +1,21 @@
+Part A (Do Part B First)
+Go through each item in downloadList using a loop
+	Check if the title (e.g. call getTitle()) is eqaul to tile passed in
+		if this is true, return that item
+
+For your default case, return null 
+	
+
+Part B
+Go through the list of titles passed in using a loop
+	Create a boolean variable called found and set it to false
+	Go through downloadList using a loop
+		If the current item's title (e.g. call getTilte()) in downloadList is equal to the title in the list of titles
+			Call incrementTimesDownloaded() from the current item in downloadList.
+			Set found to true
+			
+		
+	If found is still false (That means the title doesn't exist in downloadList)
+		Add a new DownloadInfo object with the title's name to downloadList.
+	
+	

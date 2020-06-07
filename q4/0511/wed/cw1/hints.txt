@@ -1,0 +1,26 @@
+Part A
+Add prodReview to reviewList
+
+Get the productName from prodReview and set it to a variable called productName
+Create a boolean variable called found and set it to false
+Go through the productList ArrayList with i
+	if productList at i is equal to productName
+		set found to true
+		break
+
+if found is false
+	add the productName to productList
+
+Part B
+Create a total variable and set it to 0.
+Go through reviewList with i
+	if the getName of reviewList at i is equal to prodName
+		Get the review by calling getReview of reviewList at i and set it to String call review.
+		Call indexOf from review passing in "best"
+		If the result is not -1 (that means best exists)
+			increment total
+			
+return total
+		
+
+

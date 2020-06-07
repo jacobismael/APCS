@@ -1,0 +1,20 @@
+Part A 
+Create a newWord string to store the scramble word
+Go through each letter of word, except for the last since you are checking two letters at a time
+	Check if the current letter is an A and the next letter is not an A
+		Reverse the letter and add to newWord, increase i by 2 to skip 2 letters
+		(e.g. newWord += word.substring(i+1, i+2) + word.substring(i, i+1) )
+	else 
+		Add one letter to newWord
+		(e.g. newWord += word.substring(i, i+1) )
+Return newWord
+
+Part B
+Go through the wordList
+	Call scrambleWord passing in the current word from wordList. Store the result
+	if the result is equal to the orignal word 
+		Remove it. (Make sure to use i-- after the removal)
+	else
+		Replace (set) that location with the scramble word
+	
+	

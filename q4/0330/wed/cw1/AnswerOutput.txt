@@ -1,0 +1,6 @@
+Testing puzzle.getHint("AAAAA"): +A+++
+Testing puzzle.getHint("HELLO"): H****
+Testing puzzle.getHint("HEART"): H*++*
+Testing puzzle.getHint("HARMS"): HAR*S
+Testing puzzle.getHint("HARPS"): HARPS
+

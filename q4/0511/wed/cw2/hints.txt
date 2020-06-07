@@ -1,0 +1,30 @@
+Part A
+Create a count variable and set it 1.
+Create a while loop with the condition of n not equals to 1
+	if n is even ( use mod ) e.g (n%2 == 0)
+		set n to n divide 2
+	else (odd)
+		set n to n * 3 + 1
+	
+	increment count
+
+return count
+
+
+
+Part B
+Call hailstoneLength passing in n
+If the result is greater than n
+	return true
+else
+	return false
+	
+	
+Part C
+Create a count variable and set it to zero
+Using a for loop, go from 1 to n (inclusive) using i
+	Call isLongSeq passing in i
+	If the result is true
+		increment count
+
+return count divide n.  (don't forget to cast one of the variable to a double)

@@ -1,0 +1,10 @@
+Testing part A
+TNA
+BARCADABARA
+WHOA
+ARADVRAK
+EGGS
+A
+
+Testing part B
+[TNA, BARCADABARA, PAPLE]

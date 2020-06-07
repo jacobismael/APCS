@@ -1,0 +1,19 @@
+//Part A
+//Go through the entries instance variable
+	//get each row (e.g entries.get(i).getValue() ) and check if matches the row passed in and 
+	//get each col and check if it matches the col passed in
+	//if they both match
+		//get and return the value at that location 
+		
+		
+//Part B
+//Go through the entries list
+	//if the col (getCol()) matches the col passed in
+		//remove it from entries (don't forget to add i--)
+
+//Go through the entries list
+	//if the col is greater than the col passed in
+		//set that location to a new SparseArrayEntry(*) passing in the same row, the col minus - 1, and the same value for the constructor
+	
+//substract the numCols variable by 1
+		

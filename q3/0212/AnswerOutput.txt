@@ -1,0 +1,42 @@
+Score: 10 Frequency: 1
+Score: 20 Frequency: 1
+Score: 30 Frequency: 1
+Score: 40 Frequency: 1
+Score: 50 Frequency: 1
+Score: 60 Frequency: 1
+Score: 70 Frequency: 1
+Score: 80 Frequency: 1
+Score: 90 Frequency: 1
+Score: 100 Frequency: 1
+
+Testing for Part A
+Add score of 5. result: true
+Add score of 45. result: true
+Add score of 60 twice. result: false false
+Add score of 85. result: true
+Add score of 105 twice. result: true false
+Score: 5 Frequency: 1
+Score: 10 Frequency: 1
+Score: 20 Frequency: 1
+Score: 30 Frequency: 1
+Score: 40 Frequency: 1
+Score: 45 Frequency: 1
+Score: 50 Frequency: 1
+Score: 60 Frequency: 3
+Score: 70 Frequency: 1
+Score: 80 Frequency: 1
+Score: 85 Frequency: 1
+Score: 90 Frequency: 1
+Score: 100 Frequency: 1
+Score: 105 Frequency: 2
+
+Testing for Part B
+Score: 1 Frequency: 2
+Score: 2 Frequency: 3
+Score: 3 Frequency: 5
+Score: 4 Frequency: 2
+Score: 5 Frequency: 2
+Score: 6 Frequency: 2
+Score: 7 Frequency: 2
+Score: 8 Frequency: 1
+Score: 9 Frequency: 1
