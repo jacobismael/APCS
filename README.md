@@ -13,27 +13,27 @@ javac *.java && java Runner
 # List of Lab Projects:
 
 ## S1 (2019):
-1. [Variables Lab](/variableslab) (September 5)
-2. [Trivia Lab](triviaLab) (September 18)
-3. [Formulas Lab](formulaslab) (September 25)
-4. [Career Lab](careerlab) (October 2)
-5. [Scenery Lab](scenerylab) (October 9)
-6. [Formula Graphics Lab](formulagraphicslab) (October 17)
-7. [Bank Lab](banklab) (October 23)
-8. [Animation Lab](animationlab) (October 30)
-9. [Number Slots Lab](numberslotlab) (November 6)
-10. [Sim Lab](simlab) (November 13)
-11. [Four Seasons Lab](fourseasonslab) (November 26)
-12. [1st Semester Final](final) (December 20)
+1. [Variables Lab](/tree/master/variableslab) (September 5)
+2. [Trivia Lab](/tree/master/triviaLab) (September 18)
+3. [Formulas Lab](/tree/master/formulaslab) (September 25)
+4. [Career Lab](/tree/master/careerlab) (October 2)
+5. [Scenery Lab](/tree/master/scenerylab) (October 9)
+6. [Formula Graphics Lab](/tree/master/formulagraphicslab) (October 17)
+7. [Bank Lab](/tree/master/banklab) (October 23)
+8. [Animation Lab](/tree/master/animationlab) (October 30)
+9. [Number Slots Lab](/tree/master/numberslotlab) (November 6)
+10. [Sim Lab](/tree/master/simlab) (November 13)
+11. [Four Seasons Lab](/tree/master/fourseasonslab) (November 26)
+12. [1st Semester Final](/tree/master/final) (December 20)
 
 ## S2 (2020): 
-13. [Contact List Manager Lab](contactlistmanagerlab) (January 22)
-14. [Blackjack v1 Lab](blackjackv1lab) (January 29)
-15. [Blackjack v2 Lab](blackjackv2lab) (February 10)
-16. [Tic Tac Toe Lab](tictactoelab) (March 4)
-17. [Pixel Art Lab](pixelart) (March 11)
-18. [Traffic Simulator Lab](trafficsim) (March 24)
-19. [2nd Semester Final](final2) (June 6)
+13. [Contact List Manager Lab](/tree/master/contactlistmanagerlab) (January 22)
+14. [Blackjack v1 Lab](/tree/master/blackjackv1lab) (January 29)
+15. [Blackjack v2 Lab](/tree/master/blackjackv2lab) (February 10)
+16. [Tic Tac Toe Lab](/tree/master/tictactoelab) (March 4)
+17. [Pixel Art Lab](/tree/master/pixelart) (March 11)
+18. [Traffic Simulator Lab](/tree/master/trafficsim) (March 24)
+19. [2nd Semester Final](/tree/master/final2) (June 6)
 
 > There are considerably less labs in the 2nd semester because of both the AP test and the Coronavirus epidemic
 
