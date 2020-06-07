@@ -61,7 +61,7 @@ I used [JDK 8](https://www.oracle.com/java/technologies/javase/javase-jdk8-downl
 | [9/30](q1/0930) |
 | [10/7](q1/1007) |
 
-> Some work may be missing but most of all my work is also in my logs saved in my drive folder
+> Some work may be missing but most of all my work is also in my logs saved in my Google Drive folder
 
 --- 
 
