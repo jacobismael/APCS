@@ -1,1 +1,0 @@
-the cheat key is 'p'
