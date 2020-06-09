@@ -59,7 +59,7 @@ I used [JDK 8](https://www.oracle.com/java/technologies/javase/javase-jdk8-downl
 | [9/30](q1/0930) | [12/9](q2/1209)  | [2/12](q3/0212)|
 | [10/7](q1/1007) | [12/16](q2/1216) |
 
-> Some work may be missing but most of all my work is also in my logs saved in my Google Drive folder
+> Some work may be missing but most of all my work is also in my logs saved in my [Google Drive](https://drive.google.com/drive/u/0/folders/19rtHC0zhlxFMmQrvZ_Fg6k6h7TAuwtYp) folder
 
 --- 
 
