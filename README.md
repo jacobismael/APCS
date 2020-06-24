@@ -1,7 +1,7 @@
 # AP Computer Science A
 A collection of my work from my AP Computer Science class I took in freshmen year of high school (2019 - 2020).
 
-This Repository is supposed to be private as it is against the rules to share code for any classes. The code is only here as a backup in case anything happens to the copy on my main hard disk.
+This Repository is here to showcase work but it is against the rules to plagiarize work online so don't use this for the same class or anything like that.
 
 ---
 
