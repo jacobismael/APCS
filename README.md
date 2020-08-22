@@ -1,4 +1,5 @@
 # AP Computer Science A
+![https://maintained.cc/jacobismael/jacobismael/1](https://maintained.cc/jacobismael/jacobismael/1)
 A collection of my work from my AP Computer Science class I took in freshmen year of high school (2019 - 2020).
 
 This Repository is here to showcase work but it is against the rules to plagiarize work online so don't use this for the same class or anything like that.
